@@ -1,1 +1,1 @@
-auth_token = "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"
+OPENAI_API_KEY = "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"
